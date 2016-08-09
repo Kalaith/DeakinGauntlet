@@ -1,2 +1,0 @@
-# DeakinGauntlet
-Gauntlet Remake Project
